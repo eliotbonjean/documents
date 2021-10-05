@@ -77,7 +77,7 @@ GNU gdb (Ubuntu 9.2-0ubuntu1~20.04) 9.2
 Créer le fichier source suivant :
 ```bash
 $ cd
-$ vi hello.c
+$ anohello.c
 ```
 
 ```C
